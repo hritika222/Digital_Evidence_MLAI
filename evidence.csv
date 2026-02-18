@@ -1,0 +1,8 @@
+data = {
+    "file_name": ["File1", "File2", "File3", "File4", "File5"],
+    "source": ["USB", "Email", "Cloud", "USB", "Email"],
+    "size_MB": [50, 10, 200, 5, 70],
+    "keywords_found": [5, 20, 0, 15, 8],
+    "time_logged": [2, 23, 15, 1, 18],
+    "actual": ["valid", "suspicious", "valid", "suspicious", "valid"]
+}
